@@ -54,8 +54,8 @@ Jivanta Backend is the API server for the Jivanta platform, designed to bridge t
 
 3. **Create a `.env` file in the root directory:**
    ```
-   PORT=6070
-   MONGO_URI=mongodb://localhost:27017/jivanta
+   PORT=6060
+   MONGO_URI=you_mongo_db_string
    JWT_SECRET=your_jwt_secret
    ```
 
